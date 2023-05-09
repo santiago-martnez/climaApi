@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(206, 206, 207);
+}
+.App {
+  text-align: center; 
+}
+
+.input-group{
+  max-width: 60%;
+}
+.card-title{
+  position: absolute;
+  padding: 20px;
+  font-size: 40px;
+  margin-left: 20px;
+}
+.card-date{
+  position: absolute;
+  padding-left: 50px;
+  margin-top: 80px;
+  font-size: 20px;
+}
+.card-temp{
+  position: absolute;
+  padding-left: 20px;
+  margin-top: 440px;
+  font-size : 50px;
+}
+.card-desc{
+  position: absolute;
+  padding-left: 0px;
+  margin-top: 490px;
+  font-size: 30px;
+}
+.col-md-8{
+  padding: 1em;
+}
+
+.col{
+  margin-top: 5%;
+}
+
+footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
